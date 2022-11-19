@@ -1,0 +1,9 @@
+.card {
+    display: block;
+    margin-left: 33%;
+    width: 45%;
+    background-color: aliceblue;
+    border-radius: 30px;
+    overflow: wrap;
+    font-weight: bold;
+}
